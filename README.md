@@ -84,19 +84,18 @@ When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:connect2rauf17@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect2rauf17@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abdul-rauf-363b65352" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/abdul-rauf-363b65352">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rauf17" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/rauf17">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="45" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Abdul_Rauf17/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Abdul_Rauf17/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" alt="LeetCode"/>
   </a>
 </p>
