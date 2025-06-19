@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Abdul Rauf</h1>
 <h3 align="center">AI/ML Learner | Cybersecurity Enthusiast | Game Developer | FAST'27</h3>
 
@@ -15,7 +14,7 @@ I'm an explorer of intelligent systems and creative code 👨‍💻<br><br>
 Currently studying Computer Science at <strong>FAST NUCES Islamabad</strong>, I love blending creativity and logic to build cool things — from arcade games in <strong>C++</strong> to exploring <strong>AI/ML</strong> workflows using <strong>Python, TensorFlow, Pandas</strong>.<br><br>
 
 ⚡ I enjoy working across the spectrum — from <strong>low-level Assembly</strong> to <strong>high-level ML frameworks</strong>.<br>
-When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech & sci-fi documentaries. <br><br>
+When I’m not coding, I’m probably hiking mountains 🏔️ or watching tech & sci-fi documentaries. <br><br>
 
 💡 <strong>Currently:</strong><br>
 ⚡ AI Intern at AI GenMat<br>
@@ -30,7 +29,8 @@ When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech
 
 ### 🛠️ Tech Stack
 
-<p align="left"><strong>👨‍💻 Languages</strong><br>
+#### 👨‍💻 Languages
+<p>
 <img src="https://img.shields.io/badge/C-00589C?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
@@ -39,24 +39,28 @@ When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech
 <img src="https://img.shields.io/badge/Assembly-525252?style=flat&logo=amd&logoColor=white"/>
 </p>
 
-<p align="left"><strong>🤖 AI / ML & Data</strong><br>
+#### 🤖 AI / ML & Data
+<p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
 </p>
 
-<p align="left"><strong>🎮 Game Development</strong><br>
+#### 🎮 Game Development
+<p>
 <img src="https://img.shields.io/badge/SFML-2E8B57?style=flat&logo=sfml&logoColor=white"/>
 <img src="https://img.shields.io/badge/GLUT-FF4500?style=flat&logo=opengl"/>
 </p>
 
-<p align="left"><strong>🌐 Web Development</strong><br>
+#### 🌐 Web Development
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="left"><strong>⚒️ Tools & Platforms</strong><br>
+#### ⚒️ Tools & Platforms
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux"/>
 <img src="https://img.shields.io/badge/Make.com-000?style=flat&logo=make"/>
@@ -84,18 +88,19 @@ When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech
 ### 📫 Let's Connect
 
 <p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect2rauf17@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect2rauf17@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abdul-rauf-363b65352">
+  <a href="https://linkedin.com/in/abdul-rauf-363b65352" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rauf17">
+  <a href="https://github.com/rauf17" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="45" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Abdul_Rauf17/">
+  <a href="https://leetcode.com/u/Abdul_Rauf17/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" alt="LeetCode"/>
   </a>
 </p>
