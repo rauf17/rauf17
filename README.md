@@ -30,41 +30,47 @@ When I’m not coding, I’m probably hiking mountains 🏔️ or watching tech 
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/C-00589C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=flat&logo=amd&logoColor=white"/>
+
+<p align="left">
+  <img alt="C" src="https://img.shields.io/badge/C-00589C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
 
 #### 🤖 AI / ML & Data
+
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 #### 🎮 Game Development
+
 <p>
-<img src="https://img.shields.io/badge/SFML-2E8B57?style=flat&logo=sfml&logoColor=white"/>
-<img src="https://img.shields.io/badge/GLUT-FF4500?style=flat&logo=opengl"/>
+  <img src="https://img.shields.io/badge/SFML-2E8B57?style=for-the-badge&logo=sfml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLUT-FF4500?style=for-the-badge&logo=opengl&logoColor=white"/>
 </p>
 
 #### 🌐 Web Development
+
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 #### ⚒️ Tools & Platforms
+
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux"/>
-<img src="https://img.shields.io/badge/Make.com-000?style=flat&logo=make"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white"/>
 </p>
+
 
 ---
 
