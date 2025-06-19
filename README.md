@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Abdul Rauf</h1>
 <h3 align="center">AI/ML Learner | Cybersecurity Enthusiast | Game Developer | FAST'27</h3>
 
@@ -14,9 +15,11 @@ I'm an explorer of intelligent systems and creative code 👨‍💻<br><br>
 Currently studying Computer Science at <strong>FAST NUCES Islamabad</strong>, I love blending creativity and logic to build cool things — from arcade games in <strong>C++</strong> to exploring <strong>AI/ML</strong> workflows using <strong>Python, TensorFlow, Pandas</strong>.<br><br>
 
 ⚡ I enjoy working across the spectrum — from <strong>low-level Assembly</strong> to <strong>high-level ML frameworks</strong>.<br>
-When I’m not coding, I’m probably hiking mountains 🏔️, cooking experimental dishes 🔥, or watching tech & sci-fi documentaries. <br><br>
+When I’m not coding, I’m probably hiking mountains 🏔️, or watching tech & sci-fi documentaries. <br><br>
 
 💡 <strong>Currently:</strong><br>
+⚡ AI Intern at AI GenMat<br>
+🌐 ML Intern at Arch Technologies<br>
 ✅ OOP Lab Demonstrator<br>
 🎮 Building C++ games with SFML & GLUT<br>
 🧪 Learning TensorFlow pipelines<br>
@@ -42,7 +45,7 @@ When I’m not coding, I’m probably hiking mountains 🏔️, cooking experime
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
 </p>
 
-<p align="left"><left>🎮 Game Development</strong><br>
+<p align="left"><strong>🎮 Game Development</strong><br>
 <img src="https://img.shields.io/badge/SFML-2E8B57?style=flat&logo=sfml&logoColor=white"/>
 <img src="https://img.shields.io/badge/GLUT-FF4500?style=flat&logo=opengl"/>
 </p>
@@ -81,16 +84,20 @@ When I’m not coding, I’m probably hiking mountains 🏔️, cooking experime
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:connect2rauf17@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="email"/>
+  <a href="mailto:connect2rauf17@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abdul-rauf-363b65352" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="linkedin"/>
+  <a href="https://linkedin.com/in/abdul-rauf-363b65352" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rauf17" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="45" alt="github"/>
+  <a href="https://github.com/rauf17" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Abdul_Rauf17/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" alt="LeetCode"/>
   </a>
 </p>
 
