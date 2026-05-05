@@ -1,97 +1,179 @@
-<h1 align="center">Hi 👋, I'm Abdul Rauf</h1>
-<h3 align="center">Full-Stack Software Engineer | Next.js Architecture | AI-SaaS Builder | FAST'27</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Abdul%20Rauf&desc=Full-Stack%20Developer%20%7C%20AI-SaaS%20Builder%20%7C%20ML%20Engineer&fontSize=80&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=38&descAlignY=58"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F58A07&center=true&width=850&lines=Building+Scalable+Web+Applications;Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Architecting+AI-Powered+SaaS;Crafting+Premium+UI%2FUX+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=F59E0B&center=true&width=860&lines=Building+AI-Powered+SaaS+Platforms;ML+Pipelines+%7C+LLM+Integrations+%7C+Next.js+15;Crafting+High-Contrast+Developer+Experiences;Teaching+Assistant+%40+FAST+NUCES;Always+shipping.+Always+learning." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-rauf17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:connect2rauf17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rauf17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Abdul_Rauf17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## Professional Summary
 
-<p align="left">
-I'm an explorer of modern web architecture and creative code 👨‍💻<br><br>
-Currently studying Computer Science at <strong>FAST NUCES Islamabad</strong>, I love blending creativity and logic to build cool things — from local-first developer tools in <strong>Next.js</strong> to full-scale <strong>SaaS platforms</strong> using <strong>React, Firebase, and LLM APIs</strong>.<br><br>
+```ts
+const intro = `
+  Hi, I'm Abdul Rauf — a Full-Stack Developer and aspiring ML Engineer
+  passionate about building software that is fast, intelligent, and
+  production-ready. I learn best by shipping real things, and I measure
+  progress in deployed apps, not tutorials completed.
+`;
+const focusedOn = {
 
-⚡ I enjoy working across the entire web spectrum — bridging scalable backend architectures with lavish, high-contrast user interfaces.<br>
-When I’m not coding, I’m probably hiking mountains 🏔️ or watching tech & sci-fi documentaries. <br><br>
+  fullStack:
+    "Architecting scalable web apps with Next.js, React, and MERN — " +
+    "from local-first dev tools to payment-integrated platforms.",
 
-💡 <strong>Currently:</strong><br>
-⚡ Building AI-powered SaaS platforms (Readme-AI, Apexdocs)<br>
-🌐 Engineering local-first developer productivity tools (Trevo)<br>
-✅ Handling full-lifecycle client projects and Stripe integrations<br>
-🎮 Exploring Framer Motion and interactive UI design<br>
-🧪 Mastering Next.js 15 & Server-Side Rendering (SSR)<br>
-</p>
+  aiAndML:
+    "Building ML pipelines, integrating LLM APIs, and engineering " +
+    "AI-powered SaaS platforms that solve real developer problems.",
+
+  shipping:
+    "Running live client projects, holding a TA role at FAST NUCES, " +
+    "and continuously launching and improving my own products.",
+};
+const mission =
+  "Build software that holds up under pressure — " +
+  "performant, reliable, and designed with the user in mind.";
+
+export default { focusedOn, mission };
+```
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-#### 👨‍💻 Languages
-
-<p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-#### 🌐 Frontend & UI Architecture
-
+#### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### 🗄️ Backend & Databases
-
+#### Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-#### ⚒️ Infrastructure & Tools
+#### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
+#### DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>
 
+---
+
+## Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>What it does</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Trevo</strong></td>
+      <td>Next.js 15 · TypeScript · Framer Motion</td>
+      <td>Developer tool for visualizing & exporting directory structures across 25+ tech stacks with IDE-style file tree and live ASCII generation</td>
+      <td><a href="https://trevo-xi.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+      <td><strong>Readme-AI</strong></td>
+      <td>Next.js · Gemini API · Glassmorphism UI</td>
+      <td>AI engine that transforms raw GitHub repos into professional READMEs using LLM code analysis — with a "Code Rain" cinematic interface</td>
+      <td><a href="https://smart-readme.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+      <td><strong>Apexdocs</strong></td>
+      <td>React · Vite · Firebase · Tailwind CSS</td>
+      <td>Document generation SaaS — converts Markdown to print-ready PDFs with real-time editor, Firebase Auth & Firestore persistence</td>
+      <td><a href="https://apexdocs.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+      <td><strong>AnimalTriage</strong></td>
+      <td>Stripe · Supabase · Webhooks</td>
+      <td>Live medical portal with full Stripe payment lifecycle — resolved 250+ critical API errors, achieving 99.9% transaction success rate</td>
+      <td>Client (Confidential)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 📫 Let's Connect
+## Experience
+
+**AI Intern — AI Genmat** *(Jun – Aug 2025 · Remote)*
+- Engineered automated ML data pipelines with NumPy & Pandas, cutting preprocessing time by **45%**
+- Implemented supervised learning models (Scikit-learn), improving research prototype accuracy by **30%**
+
+**Teaching Assistant — FAST NUCES**
+- **Data Structures** *(Jan – May 2025)*: Designed & graded a full-scale C++ project for **450+ students**
+- **OOP** *(Aug 2025 – Jan 2026)*: Led live coding labs for **120+ students**, reducing debugging time semester-over-semester
+
+---
+
+## Certifications
+
+| Certification | Issuer | Link |
+|---|---|---|
+| Google AI Essentials Specialization | Google / Coursera | [View](https://www.coursera.org/account/accomplishments/specialization/O38YKZ81UGJJ) |
+| AI For Everyone | DeepLearning.AI | [View](https://www.coursera.org/account/accomplishments/verify/SY0QWIT139N1) |
+| Introduction to Generative AI | Google | [View](https://www.coursera.org/account/accomplishments/verify/ASAZNVX7DOI4) |
+| EF SET English — C2 Proficient | EF SET | [View](https://cert.efset.org/en/GrTKGz) |
+| Linux Shell Scripting for DevOps | Coursera | [View](https://www.coursera.org/account/accomplishments/verify/WXAQMVQDGMBI) |
+
+---
+
+## Open To
+
+- AI/ML or full-stack collaborations
+- Freelance client work (SaaS, Stripe integrations, LLM APIs)
+- Research projects at the intersection of ML and web systems
+- Hackathons, open-source contributions, and knowledge-sharing
+
+---
+
+<p align="center"><i>"Ship fast. Learn faster. Keep building."</i></p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect2rauf17@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abdul-rauf-363b65352" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rauf17" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="45" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Abdul_Rauf17/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" alt="LeetCode"/>
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Thanks+for+stopping+by+—+the+best+is+still+being+built.&fontSize=18&fontColor=FFFFFF&fontAlignY=65"/>
 </p>
-
----
-
-<p align="center"><i>"Stay curious. Stay creative. Keep building."</i> 🚀</p>
