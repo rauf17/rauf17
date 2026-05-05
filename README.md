@@ -72,23 +72,6 @@ When I’m not coding, I’m probably hiking mountains 🏔️ or watching tech 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rauf17&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauf17&layout=compact&theme=radical" height="170px"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rauf17&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
@@ -107,14 +90,6 @@ When I’m not coding, I’m probably hiking mountains 🏔️ or watching tech 
   <a href="https://leetcode.com/u/Abdul_Rauf17/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" alt="LeetCode"/>
   </a>
-</p>
-
----
-
-### 👁️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rauf17&label=Visitors&style=for-the-badge&color=blueviolet" alt="visitor counter"/>
 </p>
 
 ---
