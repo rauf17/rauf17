@@ -20,7 +20,7 @@
 
 ```ts
 const intro = `
-  Hi, I'm Abdul Rauf — a Full-Stack Developer and aspiring ML Engineer
+  Hi, I'm Abdul Rauf — a Full-Stack Software Engineer and aspiring ML Engineer
   passionate about building software that is fast, intelligent, and
   production-ready. I learn best by shipping real things, and I measure
   progress in deployed apps, not tutorials completed.
@@ -119,9 +119,21 @@ export default { focusedOn, mission };
   </thead>
   <tbody>
     <tr>
+      <td><strong>PocketFlow</strong></td>
+      <td>TypeScript</td>
+      <td>The co-pilot for your wallet</td>
+      <td><a href="https://getpocketflow.vercel.app/">Live</a> · <a href="https://github.com/rauf17/pocketflow">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Miqaat</strong> ⭐ 7</td>
+      <td>Next.js · Tailwind CSS · Framer Motion · Zustand · TypeScript</td>
+      <td>A modern Islamic daily companion that moves with the sky — real time prayer timings, Hijri calendar, Qibla compass, daily reflections, moon phases, and a celestial sun and moon engine that shifts the entire interface with the time of day</td>
+      <td><a href="https://miqaat-daily.vercel.app/">Live</a> · <a href="https://github.com/rauf17/miqaat">Repo</a></td>
+    </tr>
+    <tr>
       <td><strong>Mizan Wealth</strong></td>
-      <td>Next.js 15 · TypeScript · React</td>
-      <td>Browser-native Islamic finance dashboard for tracking wealth, purifying stock portfolios, and calculating Zakat with precise Shariah compliance</td>
+      <td>Next.js 14 · Tailwind CSS · Google Gemini · TypeScript</td>
+      <td>A local first, browser native Islamic finance dashboard for calculating Zakat to precise Fiqh standards, screening and purifying stock portfolios, modeling inheritance shares, and simulating halal wealth growth — entirely offline, with no data leaving the device</td>
       <td><a href="https://mizanwealth.vercel.app/">Live</a> · <a href="https://github.com/rauf17/mizan-wealth">Repo</a></td>
     </tr>
     <tr>
@@ -133,13 +145,13 @@ export default { focusedOn, mission };
     <tr>
       <td><strong>Apexdocs</strong></td>
       <td>React · Vite · Firebase · Tailwind CSS</td>
-      <td>Document generation SaaS — converts Markdown to print-ready PDFs with real-time editor, Firebase Auth & Firestore persistence</td>
+      <td>Document generation SaaS — converts Markdown to print ready PDFs with real time editor, Firebase Auth and Firestore persistence</td>
       <td><a href="https://apexdocs.vercel.app/">Live</a> · <a href="https://github.com/rauf17/apexdocs">Repo</a></td>
     </tr>
     <tr>
       <td><strong>Trevo</strong></td>
       <td>Next.js 15 · TypeScript · Framer Motion</td>
-      <td>Developer tool for visualizing & exporting directory structures across 25+ tech stacks with IDE-style file tree and live ASCII generation</td>
+      <td>Developer tool for visualizing and exporting directory structures across 25+ tech stacks with IDE style file tree and live ASCII generation</td>
       <td><a href="https://trevo-xi.vercel.app/">Live</a> · <a href="https://github.com/rauf17/trevo">Repo</a></td>
     </tr>
   </tbody>
@@ -160,7 +172,7 @@ export default { focusedOn, mission };
     <tr>
       <td><strong>Synapse</strong></td>
       <td>LangGraph · FastAPI · Gemini 2.5 Flash · Python</td>
-      <td>Production-grade multi-agent research assistant with autonomous web search, data validation, and Human-in-the-Loop (HITL) interrupts</td>
+      <td>Production grade multi-agent research assistant with autonomous web search, data validation, and Human in the Loop (HITL) interrupts</td>
       <td><a href="https://github.com/rauf17/multi-agent-ai-research-assistant">Repo</a></td>
     </tr>
     <tr>
@@ -172,7 +184,7 @@ export default { focusedOn, mission };
     <tr>
       <td><strong>Hand Gesture Volume Controller</strong></td>
       <td>Python · OpenCV · MediaPipe · Streamlit</td>
-      <td>Real-time system volume control using hand gesture recognition via webcam</td>
+      <td>Real time system volume control using hand gesture recognition via webcam</td>
       <td><a href="https://github.com/rauf17/Hand-Gesture-Volume-Controller">Repo</a></td>
     </tr>
   </tbody>
@@ -191,7 +203,7 @@ export default { focusedOn, mission };
   </thead>
   <tbody>
     <tr>
-      <td><strong>FlexPrime</strong> ⭐ 44</td>
+      <td><strong>FlexPrime</strong> ⭐ 42</td>
       <td>JavaScript · Chrome Extensions API</td>
       <td>Supercharges the FAST-NUCES FlexStudent portal with marks alerts, GPA simulator, attendance tracking, auto grand total fix, and a fully redesigned UI</td>
       <td><a href="https://github.com/rauf17/flex-prime">Repo</a></td>
@@ -199,13 +211,13 @@ export default { focusedOn, mission };
     <tr>
       <td><strong>Orbit</strong></td>
       <td>Next.js · TypeScript</td>
-      <td>High-precision 24-hour timeline for mastering global timezones — visualize daylight overlaps and coordinate across the globe with a minimalist interface</td>
+      <td>High precision 24 hour timeline for mastering global timezones — visualize daylight overlaps and coordinate across the globe with a minimalist interface</td>
       <td><a href="https://github.com/rauf17/orbit">Repo</a></td>
     </tr>
     <tr>
       <td><strong>Form-Forge</strong></td>
       <td>JavaScript · Chrome Extensions API</td>
-      <td>Fuzzy-matching autofill Chrome extension for Google Forms — cuts form-filling time dramatically</td>
+      <td>Fuzzy matching autofill Chrome extension for Google Forms — cuts form filling time dramatically</td>
       <td><a href="https://github.com/rauf17/form-forge">Repo</a></td>
     </tr>
   </tbody>
@@ -256,6 +268,7 @@ export default { focusedOn, mission };
 
 | Certification | Issuer | Link |
 |---|---|---|
+| Google Prompting Essentials Specialization | Google / Coursera | [View](https://www.coursera.org/account/accomplishments/specialization/certificate/1Z4IRCNT68ZX) |
 | Google AI Essentials Specialization | Google / Coursera | [View](https://www.coursera.org/account/accomplishments/specialization/O38YKZ81UGJJ) |
 | AI For Everyone | DeepLearning.AI | [View](https://www.coursera.org/account/accomplishments/verify/SY0QWIT139N1) |
 | Introduction to Generative AI | Google | [View](https://www.coursera.org/account/accomplishments/verify/ASAZNVX7DOI4) |
