@@ -203,7 +203,7 @@ export default { focusedOn, mission };
   </thead>
   <tbody>
     <tr>
-      <td><strong>FlexPrime</strong> ⭐ 42</td>
+      <td><strong>FlexPrime</strong> ⭐ 44</td>
       <td>JavaScript · Chrome Extensions API</td>
       <td>Supercharges the FAST-NUCES FlexStudent portal with marks alerts, GPA simulator, attendance tracking, auto grand total fix, and a fully redesigned UI</td>
       <td><a href="https://github.com/rauf17/flex-prime">Repo</a></td>
