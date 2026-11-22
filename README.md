@@ -10,6 +10,7 @@
   <a href="https://linkedin.com/in/abdul-rauf17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:connect2rauf17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/rauf17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://rankistan.dev/#rauf17"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frauf17&style=for-the-badge" alt="Rankistan rank badge"/></a>
   <a href="https://leetcode.com/u/Abdul_Rauf17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://abdulrauf17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -203,7 +204,7 @@ export default { focusedOn, mission };
   </thead>
   <tbody>
     <tr>
-      <td><strong>FlexPrime</strong> ⭐ 44</td>
+      <td><strong>FlexPrime</strong> ⭐ 48</td>
       <td>JavaScript · Chrome Extensions API</td>
       <td>Supercharges the FAST-NUCES FlexStudent portal with marks alerts, GPA simulator, attendance tracking, auto grand total fix, and a fully redesigned UI</td>
       <td><a href="https://github.com/rauf17/flex-prime">Repo</a></td>
